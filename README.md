@@ -5,7 +5,7 @@
 
 ## 📸 Vista previa del dashboard
 
-![Vista del dashboard](screenshots/dashboard.png)
+![Vista del dashboard](screenshots/House_Price-jpg)
 ---
 
 ## 📊 Objetivo del proyecto
