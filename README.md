@@ -6,6 +6,7 @@
 ## 📸 Vista previa del dashboard
 
 Podés ver el Dashboard haciendo click en la imagen JPG de los archivos.
+https://github.com/Salinas-Javier/Qlik_House_Price/blob/main/House_Price.jpg
 ---
 
 ## 📊 Objetivo del proyecto
