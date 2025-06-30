@@ -5,7 +5,7 @@
 
 ## 📸 Vista previa del dashboard
 
-![Vista del dashboard](House_Price-jpg)
+Podés ver el Dashboard haciendo click en la imagen JPG de los archivos.
 ---
 
 ## 📊 Objetivo del proyecto
@@ -72,4 +72,13 @@ Analizar cómo varían los precios de las viviendas en función de variables cla
    ```bash
    git clone https://github.com/tu_usuario/Price-House.git
 
+## 🚀 Ingresá a Qlik
 
+Abrí Qlik Sense Desktop y cargá el archivo .qvf incluido (si lo publicás).
+
+Verificá el script de carga para ajustar rutas si es necesario.
+
+Interactuá con el dashboard y descubrí insights.
+
+
+  
