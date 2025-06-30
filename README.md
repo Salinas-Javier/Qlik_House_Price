@@ -1,7 +1,11 @@
 # 🏠 House-Price
 
 **Price-House** es un proyecto de análisis inmobiliario desarrollado en **Qlik Sense**, que tiene como objetivo explorar el comportamiento de precios, características estructurales y condiciones de propiedades residenciales a partir de un conjunto de datos estructurados.
+---
 
+## 📸 Vista previa del dashboard
+
+![Vista del dashboard](screenshots/dashboard.png)
 ---
 
 ## 📊 Objetivo del proyecto
